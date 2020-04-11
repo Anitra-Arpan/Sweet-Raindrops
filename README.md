@@ -1,2 +1,2 @@
-# Sweet-Raindrops
-Cute circular raindrops which constantly change colours.....
+# p5.play-boilerplate
+Boiler plate for p5.play
